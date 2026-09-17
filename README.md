@@ -4,7 +4,7 @@
 #### What does it do?
 firstf or FindFirst is a CLI tool that searches through N lines of a file and prints the lines that contains the requested pattern.
 #### How run it
-As previsouly mentioned, firstf runs from the terminal and requires three things being
+As previsouly mentioned, firstf runs from the terminal and requires three things:
 - the pattern to search for
 - the file to search in
 - the number that sets the first N lines to search through in the file.
